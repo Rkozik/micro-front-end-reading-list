@@ -17,3 +17,4 @@
 * Angular JS
 * React
 * Vue
+* [Consul](https://www.consul.io/)
