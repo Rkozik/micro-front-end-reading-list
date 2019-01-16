@@ -22,3 +22,4 @@
 * React
 * Vue
 * [Consul](https://www.consul.io/)
+* [Single-SPA](https://single-spa.js.org/)
